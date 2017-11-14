@@ -1,0 +1,3 @@
+LIBRARY "Step3-3Dll"
+EXPORTS
+	DirectryAnalysis	@1
